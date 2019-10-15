@@ -1,2 +1,2 @@
 # English-To-Spanish-Dictionary
-Key and Value
+Enter the days in English and get result in Spanish.
